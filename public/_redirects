@@ -1,0 +1,6 @@
+# Netlify redirect for single-page-app routing.
+# The build also emits a real index.html per route, so direct URLs work even
+# before this rule is reached; this is the fallback for unknown nested paths.
+/*
+  /index.html
+  status = 200

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Generated again at build time by scripts/prerender-meta.mjs, which adds the
+# real sitemap URL for the deployed domain.
+Sitemap: https://minhaz-alam.netlify.app/sitemap.xml
